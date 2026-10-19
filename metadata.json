@@ -1,0 +1,6 @@
+{
+  "name": "errortune",
+  "description": "Hacker & coder styled online and offline music & video streaming app with background playback, downloads, and search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
